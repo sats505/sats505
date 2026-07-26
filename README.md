@@ -26,44 +26,45 @@ Most projects start with a simple question:
 
 > **Can this be automated?**
 
+When I'm not building projects, I'm usually planning the next one.
+
 ---
 
 ## Projects
 
 ### SmartS
 
-AI-powered recruitment platform combining resume analysis, candidate matching, retrieval systems, and LLM-assisted evaluation.
+An AI-powered recruitment assistant that analyzes resumes against job requirements using machine learning, retrieval-based processing, and LLM-assisted evaluation.
 
 **Python · Scikit-Learn · RAG · LLMs**
 
 ### ExplainMyBill AI
 
-Transforms complex bills into human-readable explanations using OCR and language models.
+A bill analysis platform that extracts information from invoices and explains charges using OCR and large language models.
 
 **Python · FastAPI · OCR · Gemini · Groq**
 
 ### Pet Adopt
 
-Pet adoption platform designed to simplify the adoption process and connect adopters with pets.
+A full-stack platform designed to simplify the pet adoption process and connect adopters with pets.
 
 **Next.js · React · JavaScript**
 
 ### Life Flow
 
-Productivity dashboard for habits, journaling, tasks, rewards, and personal growth.
+A productivity platform focused on habits, journaling, tasks, rewards, and personal growth tracking.
 
 **React · JavaScript**
 
 ---
 
-## Currently Exploring
+## What I'm working on
 
-- Machine Learning
-- Generative AI
-- Retrieval-Augmented Generation
-- System Design
-- Full Stack Development
-- GATE 2027
+* Building smarter AI-powered applications
+* Exploring RAG pipelines and LLM integrations
+* Improving ML models and data workflows
+* Learning backend architecture and system design
+* Preparing for GATE 2027
 
 ---
 
@@ -71,15 +72,27 @@ Productivity dashboard for habits, journaling, tasks, rewards, and personal grow
 
 **Languages**
 
-Python · JavaScript · SQL
+`Python`
+`JavaScript`
+`TypeScript`
+`SQL`
 
 **AI / ML**
 
-Scikit-Learn · Pandas · NumPy · XGBoost
+`Scikit-Learn`
+`Pandas`
+`NumPy`
+`XGBoost`
+`Feature Engineering`
+`NLP`
+`RAG`
 
 **Development**
 
-React · Next.js · FastAPI · Git
+`React`
+`Next.js`
+`Node.js`
+`FastAPI`
 
 ---
 
@@ -87,6 +100,6 @@ React · Next.js · FastAPI · Git
 
 <a href="https://github.com/sats505">GitHub</a> •
 <a href="mailto:yourmail@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+<a href="https://linkedin.com/in/sats505">LinkedIn</a>
 
 </div>
