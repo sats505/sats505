@@ -18,7 +18,8 @@ and turning ideas into products.
 
 <br>
 
-I build AI-powered applications focused on solving practical problems. My work currently explores machine learning, retrieval systems, LLM-powered workflows, and full-stack development. Most projects start with a simple question:
+I build AI-powered applications focused on solving practical problems. My work currently explores machine learning, retrieval systems, LLM-powered workflows, and full-stack development.
+Most projects start with a simple question:
 
 > **Can this be automated?**
 
@@ -29,16 +30,16 @@ When I'm not building projects, I'm usually planning the next one.
 ## Projects
 
 * **SmartS** — AI-powered recruitment platform for resume analysis, candidate-job matching, and LLM-assisted evaluation. Combines machine learning, retrieval-based processing, and intelligent screening workflows.  
-  ** Python · Scikit-Learn · RAG · LLMs**
+  **Python · Scikit-Learn · RAG · LLMs**
 
 * **ExplainMyBill AI** — AI-driven bill analysis platform that extracts invoice data, interprets charges, and generates human-readable explanations using OCR and language models.  
-  ** Python · FastAPI · OCR · Gemini · Groq**
+  **Python · FastAPI · OCR · Gemini · Groq**
 
 * **Pet Adopt** — Full-stack pet adoption platform connecting adopters with pets through streamlined discovery, application, and adoption workflows.  
-  ** Next.js · React · JavaScript**
+  **Next.js · React · JavaScript**
 
 * **Life Flow** — Personal productivity system combining habits, journaling, task management, rewards, and progress tracking in a unified dashboard.  
-  ** React · JavaScript**
+  **React · JavaScript**
 ---
 
 ## What I'm working on
