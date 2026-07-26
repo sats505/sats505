@@ -18,11 +18,7 @@ and turning ideas into products.
 
 <br>
 
-I build AI-powered applications focused on solving practical problems.
-
-My work currently explores machine learning, retrieval systems, LLM-powered workflows, and full-stack development.
-
-Most projects start with a simple question:
+I build AI-powered applications focused on solving practical problems. My work currently explores machine learning, retrieval systems, LLM-powered workflows, and full-stack development. Most projects start with a simple question:
 
 > **Can this be automated?**
 
@@ -32,30 +28,17 @@ When I'm not building projects, I'm usually planning the next one.
 
 ## Projects
 
-### SmartS
+* **SmartS** — AI-powered recruitment platform for resume analysis, candidate-job matching, and LLM-assisted evaluation. Combines machine learning, retrieval-based processing, and intelligent screening workflows.  
+  ** Python · Scikit-Learn · RAG · LLMs**
 
-An AI-powered recruitment assistant that analyzes resumes against job requirements using machine learning, retrieval-based processing, and LLM-assisted evaluation.
+* **ExplainMyBill AI** — AI-driven bill analysis platform that extracts invoice data, interprets charges, and generates human-readable explanations using OCR and language models.  
+  ** Python · FastAPI · OCR · Gemini · Groq**
 
-**Python · Scikit-Learn · RAG · LLMs**
+* **Pet Adopt** — Full-stack pet adoption platform connecting adopters with pets through streamlined discovery, application, and adoption workflows.  
+  ** Next.js · React · JavaScript**
 
-### ExplainMyBill AI
-
-A bill analysis platform that extracts information from invoices and explains charges using OCR and large language models.
-
-**Python · FastAPI · OCR · Gemini · Groq**
-
-### Pet Adopt
-
-A full-stack platform designed to simplify the pet adoption process and connect adopters with pets.
-
-**Next.js · React · JavaScript**
-
-### Life Flow
-
-A productivity platform focused on habits, journaling, tasks, rewards, and personal growth tracking.
-
-**React · JavaScript**
-
+* **Life Flow** — Personal productivity system combining habits, journaling, task management, rewards, and progress tracking in a unified dashboard.  
+  ** React · JavaScript**
 ---
 
 ## What I'm working on
@@ -70,16 +53,12 @@ A productivity platform focused on habits, journaling, tasks, rewards, and perso
 
 ## Stack
 
-**Languages**
-
-`Python`
+**Languages** — `Python`
 `JavaScript`
 `TypeScript`
 `SQL`
 
-**AI / ML**
-
-`Scikit-Learn`
+**AI / ML**  — `Scikit-Learn`
 `Pandas`
 `NumPy`
 `XGBoost`
@@ -87,9 +66,7 @@ A productivity platform focused on habits, journaling, tasks, rewards, and perso
 `NLP`
 `RAG`
 
-**Development**
-
-`React`
+**Development** — `React`
 `Next.js`
 `Node.js`
 `FastAPI`
@@ -98,8 +75,7 @@ A productivity platform focused on habits, journaling, tasks, rewards, and perso
 
 <div align="center">
 
-<a href="https://github.com/sats505">GitHub</a> •
-<a href="mailto:yourmail@gmail.com">Email</a> •
+<a href="mailto:shatakshiupadhyay05@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/sats505">LinkedIn</a>
 
 </div>
